@@ -1,9 +1,9 @@
 body {
             background:url(https://us.123rf.com/450wm/maximusnd/maximusnd1804/maximusnd180402561/99911908-abstract-colorful-speed-motion-blur-background-texture.jpg?ver=6) no-repeat center fixed;
             background-size: cover;
-                color: rgb(45, 45, 45);
+                color: rgb(45);
                 padding: 10px;
-                font-family: arial;
+                font-family: cursive;
             }
             header {
                 font-size: 1.5em;
@@ -16,7 +16,7 @@ body {
     
             /* navigation menu */
             nav {
-                background: rgb(23, 20, 78);
+                background: rgb(23, 20, 7);
                 margin: 0 auto;
                 display: flex;
                 padding: 10px;
