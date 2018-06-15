@@ -1,5 +1,6 @@
 body {
-            background: linear-gradient( violet, blue, purple);    
+            background:url(https://us.123rf.com/450wm/maximusnd/maximusnd1804/maximusnd180402561/99911908-abstract-colorful-speed-motion-blur-background-texture.jpg?ver=6) no-repeat center fixed;
+            background-size: cover;
                 color: rgb(45, 45, 45);
                 padding: 10px;
                 font-family: arial;
@@ -40,7 +41,8 @@ body {
     
             /* main container area beneath menu */
             main {
-                background: rgb(123, 104, 238);
+                background: url(https://i.pinimg.com/736x/90/bc/9f/90bc9fbb57edfd8dab6244a633160060.jpg)no-repeat center fixed;  
+                background-size: cover;
                 display: flex;
             }
             .sidebar {
@@ -50,8 +52,7 @@ body {
             .sidebar img {
                 width: 200px;
                 border: 10px solid  ;
-                border-radius: 30px;
-            }
+                border-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUElfHgjQMHZCgRJUCA4tbx7EQJ-YZPs0toaRaMK6UyjGDvIU); 
             .content {
                 flex: 1;
                 padding: 15px;
