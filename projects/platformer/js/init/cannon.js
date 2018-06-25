@@ -22,7 +22,7 @@
         // example: 
         cannon.create.onTop(350);
         cannon.create. onTop (700);
-        cannon.create. onTop (500);
+        cannon.create. onTop(500);
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
